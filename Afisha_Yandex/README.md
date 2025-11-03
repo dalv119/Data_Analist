@@ -7,7 +7,8 @@
 
 ## Структура проекта
 ### Проект состоит из двух частей:
-1. [Анализ данных с помощью SQL](https://github.com/dalv119/Data_Analist/tree/main/Afisha_Yandex/Afisha_yandex_1) и создание дашборда в Yandex DataLens включая, рассчёт ключевых метрик и основных показателей продукта, а также построение аналитического дашборда в DataLens.
+1. [Анализ данных с помощью SQL](https://github.com/dalv119/Data_Analist/tree/main/Afisha_Yandex/Afisha_yandex_1) и [создание дашборда в Yandex DataLens](https://datalens.yandex/slnac8axfmrmd) включая, рассчёт ключевых метрик и основных показателей продукта, а также построение аналитического дашборда в DataLens.
 
 
 2. Исследовательский анализ данных и проверка гипотез с помощью Python.
+
