@@ -9,7 +9,8 @@
 ### Проект состоит из двух частей:
 1. [Анализ данных с помощью SQL](https://github.com/dalv119/Data_Analist/tree/main/Afisha_Yandex/Afisha_yandex_1) включая, рассчёт ключевых метрик, а также [построение аналитического дашборда в DataLens](https://datalens.yandex/slnac8axfmrmd).
 
-2. Исследовательский анализ данных и проверка гипотез с помощью Python.
+2. [Исследовательский анализ данных и проверка гипотез с помощью Python](https://github.com/dalv119/Data_Analist/tree/main/Afisha_Yandex/Afisha_yandex_2).
+
 
 
 
